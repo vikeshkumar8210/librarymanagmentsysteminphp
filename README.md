@@ -21,6 +21,7 @@ c. Install LEMP Stack:
 
 Install Nginx: sudo apt install nginx
 sudo systemctl start ngnix
+sudo systemctl status ngnix
 Install MySQL/MariaDB: sudo apt install mysql-server mysql-client
 Run secure installation for MySQL: sudo mysql_secure_installation
 sudo systemctl start mysql
