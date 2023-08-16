@@ -1,7 +1,8 @@
 # librarymanagmentsysteminphp
 
 Import library_managment.sql on database
-1. Server Provisioning:
+
+# Server Provisioning:
 
 a. Choose a Cloud Provider and Provision a VPS:
 
